@@ -1,4 +1,4 @@
-<i>This is my first REST API built with the help of Postman API</i>
+<i>This is my first REST API built with the help of Postman </i>
 
  <bold><i><strong>Main Route</strong></i></bold>
  
